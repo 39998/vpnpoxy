@@ -1,0 +1,7 @@
+{
+    "server": "<your_server_ip>",
+    "server_port": <your_server_port>,
+    "password": "<your_password>",
+    "method": "chacha20-ietf-poly1305"
+}
+
